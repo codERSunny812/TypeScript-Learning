@@ -1,6 +1,6 @@
-function printName(name:string){
+function displayName(name:string):void{
     console.log(`hello my name is ${name}`);
 }
 
-printName("sunny")
+displayName("sunny")
 
